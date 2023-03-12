@@ -6,3 +6,12 @@
   "trailingComma": "none",
   "jsxBracketSameLine": true
 }
+// {
+//   "prettier/prettier": [
+//     "error",
+//     {
+//       "singleQuote": true,
+//       "parser": "flow"
+//     }
+//   ]
+// }
